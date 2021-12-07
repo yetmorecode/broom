@@ -1,0 +1,3488 @@
+BRENDER WORLD DUMP
+==================
+
+MODELS:
+
+LAUNCHRT
+LAUNCHER2
+SMISSILR
+SMISSILL
+ROLLITBK
+ROLSIDEL
+ROLLSIDE
+ROLLITES
+ROLGRILL
+glassbit01
+ROLLBODY
+bumper01
+bumper
+roof
+PORKBODY
+BGPORK.DAT
+SMPORK.DAT
+porkrear.DAT
+lights
+bonnet
+doorLFT
+doorRGT
+glassbits
+gunfront
+gunbarlr
+gunbarell
+SHOT.DAT
+pumpbodf
+fuelpipe
+pumpface
+nozzlend
+gasnozzl03
+gasnozzl01
+gasbody01
+gasbody
+token
+BUSIDE_L
+BUSIDE_R
+busBARel
+MUZZLE
+busspot
+BUSRAD
+BUSGLASS
+sight
+busbreech
+shield
+BUSBODY
+LAMBOTTY
+LFMISSLB
+RTMISSLB
+LAMBLITE
+LAMGLASS
+engine01
+engine
+wing
+LAMBODY
+muzzles
+gunswiv
+lbarrels
+rbarrels
+ammbox2
+gunsite2
+gunmuzz2
+barrel2
+gunbody2
+PUNY.DAT
+SMROCKET.DAT
+BGROCKET.DAT
+SMROCKET.DAT
+BGROCKET.DAT
+MINDOORS
+MINBONET
+MINISPOT
+SPOTR
+SPOTL
+radiator
+rearlite
+BGROCKET.DAT
+SMROCKET.DAT
+minglass
+MINlights
+MINIBODY
+BGROCKET.DAT
+BGMINMIS.DAT
+SMROCKET.DAT
+SMROCKET.DAT
+BGROCKET.DAT
+SMROCKET.DAT
+BGROCKET.DAT
+BGROCKET.DAT
+sign01
+sign
+theend
+endmid
+BGROCKET.DAT
+BANG.DAT
+VIPMISS.DAT
+GAMOVER
+midgam
+corfloor
+corright
+corleft
+cortop
+endglobe.DAT
+POWUP.DAT
+BGPORK.DAT
+SMROCKET.DAT
+BGROCKET.DAT
+SMROCKET.DAT
+BGROCKET.DAT
+VIPMISS
+VIPMIS2
+viplites
+vipglass
+viperbod
+ambox1
+CGsight
+CGmuzle2
+CGmuzzle
+barrel12
+CGamobox
+barrel1
+CGbody
+ambox1
+CGsight
+CGmuzle2
+CGmuzzle
+barrel12
+CGamobox
+barrel1
+CGbody
+ammbox2
+gunsite2
+gunmuzz2
+barrel2
+gunbody2
+POWUP.DAT
+MISSPOD.DAT
+VIPMISS.DAT
+VIPMISS.DAT
+VIPMISS.DAT
+VIPMISS.DAT
+YMISSILE.DAT
+TMISSILE.DAT
+slimshot.DAT
+fatshot.DAT
+yelshot.DAT
+SHOT.DAT
+SMPORK.DAT
+BGMINMIS.DAT
+fatrock.DAT
+REARLITE
+BIGROKTR
+BIGROKTL
+SMISSILL
+SMISSILR
+lights
+bonnet
+doorLFT
+doorRGT
+glassbits
+PORKBODY
+gunbarell
+gunbarlr
+gunfront
+
+
+MATERIALS:
+
+BONNET.MAT
+ammo.MAT
+ammobox.MAT
+BANG.MAT
+BLAKNESS.MAT
+bldsign.MAT
+bomb.MAT
+BOMBS.MAT
+bomsign.MAT
+60sign.MAT
+briteblu.MAT
+britegrn.MAT
+britered.MAT
+bustex.MAT
+chopper.MAT
+dedsign.MAT
+texwall4.MAT
+VIPERBOD.MAT
+WALLY.MAT
+panelft2.MAT
+piggy.MAT
+pillar.MAT
+powup.MAT
+powup2.MAT
+powup3.MAT
+REARLITE.MAT
+rockoff2.MAT
+rocktec1.MAT
+Rockwal6.MAT
+ROLGRILL.MAT
+ROLLITE.MAT
+ROLLROOF.MAT
+gunbody.MAT
+gunbody2.MAT
+gunbody3.MAT
+nuksign.MAT
+nwysign.MAT
+panelend.MAT
+doomtexA.MAT
+doomtexB.MAT
+DOOR.MAT
+DOORLFT.MAT
+DULLGREY.MAT
+FLOOR2.MAT
+floresnt.MAT
+gameflr1.MAT
+gamewal4.MAT
+gasstn.MAT
+graffiti.MAT
+GUN.MAT
+gunbarel.MAT
+ROLSIDE2.MAT
+ROLTEST2.MAT
+rooflit.MAT
+LAMBBASE.MAT
+LAMBTEX.MAT
+LAMTAIL.MAT
+lava.MAT
+lava2.MAT
+lights.MAT
+lockdoor.MAT
+minbonet.MAT
+MINIBOD.MAT
+minidoor.MAT
+mosswall.MAT
+mpodbody.MAT
+mpodfrnt.MAT
+XLIFE.MAT
+XLIFE2.MAT
+XLIFE3.MAT
+screen.MAT
+Sector1.MAT
+sector2.MAT
+sector3.MAT
+SHOT1.MAT
+SHOT2.MAT
+SHOT3.MAT
+SHOT4.MAT
+shtsign.MAT
+silver.MAT
+texwall1.MAT
+Texwall2.MAT
+texwall3.MAT
+wapanel5.MAT
+wapanel7.MAT
+watery.MAT
+watery2.MAT
+8window2.MAT
+YELLER.MAT
+yuckwal.MAT
+nastblu.MAT
+nastaqu.MAT
+nastorgy.MAT
+nastgrn.MAT
+window2.MAT
+window.MAT
+LOGOBLU.MAT
+ROLLTEST.MAT
+8window.MAT
+(Unnamed)
+8window2.MAT
+8window2.MAT
+8window2.MAT
+8window2.MAT
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+8window2.MAT
+8window.MAT
+8window.MAT
+8window.MAT
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+8window.MAT
+8window.MAT
+8window.MAT
+8window.MAT
+8window.MAT
+8window.MAT
+8window.MAT
+8window.MAT
+8window.MAT
+8window.MAT
+8window.MAT
+8window.MAT
+8window.MAT
+8window.MAT
+8window.MAT
+8window.MAT
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+8window.MAT
+8window.MAT
+8window.MAT
+8window.MAT
+8window.MAT
+8window.MAT
+8window.MAT
+8window.MAT
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+8window.MAT
+8window.MAT
+8window.MAT
+8window.MAT
+8window.MAT
+8window.MAT
+8window.MAT
+8window.MAT
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+8window.MAT
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+8window.MAT
+8window.MAT
+8window.MAT
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+(Unnamed)
+
+
+PIXELMAPS:
+
+gamewal4.pix
+doomtexa.pix
+doomtexb.pix
+chopper.pix
+tecwal1.pix
+panelft2.pix
+gameflr1.pix
+Bang3.pix
+gunbody.pix
+PINKSKIN.PIX
+graffiti.pix
+lockdoor.pix
+flame
+panelend.pix
+rooflit.pix
+texwall3.pix
+rocktec1.pix
+gasstn.pix
+bomb.pix
+bldsign.pix
+bustex.pix
+bomsign.pix
+gunbody3.pix
+watery.pix
+rockoff2.pix
+texwall4.pix
+GRILLER.PIX
+POWUP2.PIX
+rockwal6.pix
+texwall2.pix
+sector1.pix
+sector2.pix
+wapanel5.pix
+yuckwal.pix
+Bang2.pix
+Bang1.pix
+POWUP3.PIX
+window.pix
+Bang4.pix
+Bang5.pix
+Bang6.pix
+Bang7.pix
+ROLLFRNT.pix
+rolroof2.pix
+lava.pix
+lava2.pix
+CLISSILE.pix
+REDDOOR.PIX
+PNKBONET.PIX
+mosswall.pix
+frntlit.pix
+gunbarel.pix
+gunbody2.pix
+dedsign.pix
+rollbluk.pix
+ammo.pix
+viperbod.pix
+MPODBODY.pix
+MPODFRNT.pix
+GUNNY.pix
+nuksign.pix
+nwysign.pix
+minbonet.pix
+minidoor.pix
+miniskin.pix
+shtsign.pix
+60sign.pix
+NEWLAMB.PIX
+POWUP.PIX
+Bang8.pix
+bluekey.PIX
+greenkey.PIX
+noblue.PIX
+nored.PIX
+noyell.PIX
+redkey.PIX
+yellkey.PIX
+cock.pix
+COCKMASK.PIX
+
+
+SHADE TABLES:
+
+GAMELET.PAL
+mossy.TAB
+custom.TAB
+GAMELET.TAB
+GLASS.TAB
+LAMBY.TAB
+briteblu.TAB
+rooflit.TAB
+tecwall.TAB
+tecwall3.TAB
+SAMPLE.TAB
+shade_table
+XLIFE.TAB
+
+
+ACTOR HIERARCHY:
+
+Root
+    (Unnamed) [BUSBODY]
+        (Unnamed) [shield]
+        (Unnamed) [busbreech]
+        (Unnamed) [sight]
+        (Unnamed) [BUSGLASS]
+        (Unnamed) [BUSRAD]
+        (Unnamed) [busspot]
+        (Unnamed) [MUZZLE]
+        (Unnamed) [busBARel]
+        (Unnamed) [BUSIDE_R]
+        (Unnamed) [BUSIDE_L]
+    (Unnamed) [BUSBODY]
+        (Unnamed) [shield]
+        (Unnamed) [busbreech]
+        (Unnamed) [sight]
+        (Unnamed) [BUSGLASS]
+        (Unnamed) [BUSRAD]
+        (Unnamed) [busspot]
+        (Unnamed) [MUZZLE]
+        (Unnamed) [busBARel]
+        (Unnamed) [BUSIDE_R]
+        (Unnamed) [BUSIDE_L]
+    (Unnamed) [viperbod]
+        (Unnamed) [VIPMISS]
+        (Unnamed) [VIPMIS2]
+        (Unnamed) [viplites]
+        (Unnamed) [vipglass]
+    (Unnamed) [viperbod]
+        (Unnamed) [VIPMISS]
+        (Unnamed) [VIPMIS2]
+        (Unnamed) [viplites]
+        (Unnamed) [vipglass]
+    (Unnamed) [PORKBODY]
+        (Unnamed) [gunbarell]
+        (Unnamed) [gunbarlr]
+        (Unnamed) [gunfront]
+        (Unnamed) [glassbits]
+        (Unnamed) [doorRGT]
+        (Unnamed) [doorLFT]
+        (Unnamed) [bonnet]
+        (Unnamed) [lights]
+        (Unnamed) [porkrear.DAT]
+        (Unnamed) [SMPORK.DAT]
+        (Unnamed) [SMPORK.DAT]
+        (Unnamed) [BGPORK.DAT]
+        (Unnamed) [BGPORK.DAT]
+    (Unnamed) [LAMBODY]
+        (Unnamed) [wing]
+        (Unnamed) [engine]
+        (Unnamed) [engine01]
+        (Unnamed) [LAMGLASS]
+        (Unnamed) [LAMBLITE]
+        (Unnamed) [RTMISSLB]
+        (Unnamed) [LFMISSLB]
+        (Unnamed) [LAMBOTTY]
+    (Unnamed) [ROLLBODY]
+        (Unnamed) [roof]
+        (Unnamed) [bumper]
+        (Unnamed) [bumper01]
+        (Unnamed) [glassbit01]
+        (Unnamed) [ROLGRILL]
+        (Unnamed) [ROLLITES]
+        (Unnamed) [ROLLSIDE]
+        (Unnamed) [ROLSIDEL]
+        (Unnamed) [ROLLITBK]
+        (Unnamed) [SMISSILL]
+        (Unnamed) [SMISSILR]
+        (Unnamed) [LAUNCHER2]
+        (Unnamed) [LAUNCHRT]
+    (Unnamed) [PORKBODY]
+        (Unnamed) [gunbarell]
+        (Unnamed) [gunbarlr]
+        (Unnamed) [gunfront]
+        (Unnamed) [glassbits]
+        (Unnamed) [doorRGT]
+        (Unnamed) [doorLFT]
+        (Unnamed) [bonnet]
+        (Unnamed) [lights]
+        (Unnamed) [porkrear.DAT]
+        (Unnamed) [SMPORK.DAT]
+        (Unnamed) [SMPORK.DAT]
+        (Unnamed) [BGPORK.DAT]
+        (Unnamed) [BGPORK.DAT]
+    (Unnamed) [viperbod]
+        (Unnamed) [VIPMISS]
+        (Unnamed) [VIPMIS2]
+        (Unnamed) [viplites]
+        (Unnamed) [vipglass]
+    (Unnamed) [PORKBODY]
+        (Unnamed) [gunbarell]
+        (Unnamed) [gunbarlr]
+        (Unnamed) [gunfront]
+        (Unnamed) [glassbits]
+        (Unnamed) [doorRGT]
+        (Unnamed) [doorLFT]
+        (Unnamed) [bonnet]
+        (Unnamed) [lights]
+        (Unnamed) [porkrear.DAT]
+        (Unnamed) [SMPORK.DAT]
+        (Unnamed) [SMPORK.DAT]
+        (Unnamed) [BGPORK.DAT]
+        (Unnamed) [BGPORK.DAT]
+    (Unnamed) [MINIBODY]
+        (Unnamed) [BGMINMIS.DAT]
+        (Unnamed) [BGMINMIS.DAT]
+        (Unnamed) [MINlights]
+        (Unnamed) [minglass]
+        (Unnamed) [rearlite]
+        (Unnamed) [radiator]
+        (Unnamed) [SPOTL]
+        (Unnamed) [SPOTR]
+        (Unnamed) [MINISPOT]
+        (Unnamed) [MINBONET]
+        (Unnamed) [MINDOORS]
+    (Unnamed) [LAMBODY]
+        (Unnamed) [wing]
+        (Unnamed) [engine]
+        (Unnamed) [engine01]
+        (Unnamed) [LAMGLASS]
+        (Unnamed) [LAMBLITE]
+        (Unnamed) [RTMISSLB]
+        (Unnamed) [LFMISSLB]
+        (Unnamed) [LAMBOTTY]
+    (Unnamed) [LAMBODY]
+        (Unnamed) [wing]
+        (Unnamed) [engine]
+        (Unnamed) [engine01]
+        (Unnamed) [LAMGLASS]
+        (Unnamed) [LAMBLITE]
+        (Unnamed) [RTMISSLB]
+        (Unnamed) [LFMISSLB]
+        (Unnamed) [LAMBOTTY]
+    (Unnamed) [ROLLBODY]
+        (Unnamed) [roof]
+        (Unnamed) [bumper]
+        (Unnamed) [bumper01]
+        (Unnamed) [glassbit01]
+        (Unnamed) [ROLGRILL]
+        (Unnamed) [ROLLITES]
+        (Unnamed) [ROLLSIDE]
+        (Unnamed) [ROLSIDEL]
+        (Unnamed) [ROLLITBK]
+        (Unnamed) [SMISSILL]
+        (Unnamed) [SMISSILR]
+        (Unnamed) [LAUNCHER2]
+        (Unnamed) [LAUNCHRT]
+    (Unnamed) [ROLLBODY]
+        (Unnamed) [roof]
+        (Unnamed) [bumper]
+        (Unnamed) [bumper01]
+        (Unnamed) [glassbit01]
+        (Unnamed) [ROLGRILL]
+        (Unnamed) [ROLLITES]
+        (Unnamed) [ROLLSIDE]
+        (Unnamed) [ROLSIDEL]
+        (Unnamed) [ROLLITBK]
+        (Unnamed) [SMISSILL]
+        (Unnamed) [SMISSILR]
+        (Unnamed) [LAUNCHER2]
+        (Unnamed) [LAUNCHRT]
+    (Unnamed) [ROLLBODY]
+        (Unnamed) [roof]
+        (Unnamed) [bumper]
+        (Unnamed) [bumper01]
+        (Unnamed) [glassbit01]
+        (Unnamed) [ROLGRILL]
+        (Unnamed) [ROLLITES]
+        (Unnamed) [ROLLSIDE]
+        (Unnamed) [ROLSIDEL]
+        (Unnamed) [ROLLITBK]
+        (Unnamed) [SMISSILL]
+        (Unnamed) [SMISSILR]
+        (Unnamed) [LAUNCHER2]
+        (Unnamed) [LAUNCHRT]
+    (Unnamed) [ROLLBODY]
+        (Unnamed) [roof]
+        (Unnamed) [bumper]
+        (Unnamed) [bumper01]
+        (Unnamed) [glassbit01]
+        (Unnamed) [ROLGRILL]
+        (Unnamed) [ROLLITES]
+        (Unnamed) [ROLLSIDE]
+        (Unnamed) [ROLSIDEL]
+        (Unnamed) [ROLLITBK]
+        (Unnamed) [SMISSILL]
+        (Unnamed) [SMISSILR]
+        (Unnamed) [LAUNCHER2]
+        (Unnamed) [LAUNCHRT]
+    (Unnamed) [MINIBODY]
+        (Unnamed) [BGMINMIS.DAT]
+        (Unnamed) [BGMINMIS.DAT]
+        (Unnamed) [MINlights]
+        (Unnamed) [minglass]
+        (Unnamed) [rearlite]
+        (Unnamed) [radiator]
+        (Unnamed) [SPOTL]
+        (Unnamed) [SPOTR]
+        (Unnamed) [MINISPOT]
+        (Unnamed) [MINBONET]
+        (Unnamed) [MINDOORS]
+    (Unnamed) [PORKBODY]
+        (Unnamed) [gunbarell]
+        (Unnamed) [gunbarlr]
+        (Unnamed) [gunfront]
+        (Unnamed) [glassbits]
+        (Unnamed) [doorRGT]
+        (Unnamed) [doorLFT]
+        (Unnamed) [bonnet]
+        (Unnamed) [lights]
+        (Unnamed) [porkrear.DAT]
+        (Unnamed) [SMPORK.DAT]
+        (Unnamed) [SMPORK.DAT]
+        (Unnamed) [BGPORK.DAT]
+        (Unnamed) [BGPORK.DAT]
+    (Unnamed) [LAMBODY]
+        (Unnamed) [wing]
+        (Unnamed) [engine]
+        (Unnamed) [engine01]
+        (Unnamed) [LAMGLASS]
+        (Unnamed) [LAMBLITE]
+        (Unnamed) [RTMISSLB]
+        (Unnamed) [LFMISSLB]
+        (Unnamed) [LAMBOTTY]
+    (Unnamed) [LAMBODY]
+        (Unnamed) [wing]
+        (Unnamed) [engine]
+        (Unnamed) [engine01]
+        (Unnamed) [LAMGLASS]
+        (Unnamed) [LAMBLITE]
+        (Unnamed) [RTMISSLB]
+        (Unnamed) [LFMISSLB]
+        (Unnamed) [LAMBOTTY]
+    (Unnamed) [LAMBODY]
+        (Unnamed) [wing]
+        (Unnamed) [engine]
+        (Unnamed) [engine01]
+        (Unnamed) [LAMGLASS]
+        (Unnamed) [LAMBLITE]
+        (Unnamed) [RTMISSLB]
+        (Unnamed) [LFMISSLB]
+        (Unnamed) [LAMBOTTY]
+    (Unnamed) [PORKBODY]
+        (Unnamed) [gunbarell]
+        (Unnamed) [gunbarlr]
+        (Unnamed) [gunfront]
+        (Unnamed) [glassbits]
+        (Unnamed) [doorRGT]
+        (Unnamed) [doorLFT]
+        (Unnamed) [bonnet]
+        (Unnamed) [lights]
+        (Unnamed) [porkrear.DAT]
+        (Unnamed) [SMPORK.DAT]
+        (Unnamed) [SMPORK.DAT]
+        (Unnamed) [BGPORK.DAT]
+        (Unnamed) [BGPORK.DAT]
+    (Unnamed) [PORKBODY]
+        (Unnamed) [gunbarell]
+        (Unnamed) [gunbarlr]
+        (Unnamed) [gunfront]
+        (Unnamed) [glassbits]
+        (Unnamed) [doorRGT]
+        (Unnamed) [doorLFT]
+        (Unnamed) [bonnet]
+        (Unnamed) [lights]
+        (Unnamed) [porkrear.DAT]
+        (Unnamed) [SMPORK.DAT]
+        (Unnamed) [SMPORK.DAT]
+        (Unnamed) [BGPORK.DAT]
+        (Unnamed) [BGPORK.DAT]
+    (Unnamed) [viperbod]
+        (Unnamed) [VIPMISS]
+        (Unnamed) [VIPMIS2]
+        (Unnamed) [viplites]
+        (Unnamed) [vipglass]
+    (Unnamed) [ROLLBODY]
+        (Unnamed) [roof]
+        (Unnamed) [bumper]
+        (Unnamed) [bumper01]
+        (Unnamed) [glassbit01]
+        (Unnamed) [ROLGRILL]
+        (Unnamed) [ROLLITES]
+        (Unnamed) [ROLLSIDE]
+        (Unnamed) [ROLSIDEL]
+        (Unnamed) [ROLLITBK]
+        (Unnamed) [SMISSILL]
+        (Unnamed) [SMISSILR]
+        (Unnamed) [LAUNCHER2]
+        (Unnamed) [LAUNCHRT]
+    (Unnamed) [viperbod]
+        (Unnamed) [VIPMISS]
+        (Unnamed) [VIPMIS2]
+        (Unnamed) [viplites]
+        (Unnamed) [vipglass]
+    (Unnamed) [LAMBODY]
+        (Unnamed) [wing]
+        (Unnamed) [engine]
+        (Unnamed) [engine01]
+        (Unnamed) [LAMGLASS]
+        (Unnamed) [LAMBLITE]
+        (Unnamed) [RTMISSLB]
+        (Unnamed) [LFMISSLB]
+        (Unnamed) [LAMBOTTY]
+    (Unnamed) [LAMBODY]
+        (Unnamed) [wing]
+        (Unnamed) [engine]
+        (Unnamed) [engine01]
+        (Unnamed) [LAMGLASS]
+        (Unnamed) [LAMBLITE]
+        (Unnamed) [RTMISSLB]
+        (Unnamed) [LFMISSLB]
+        (Unnamed) [LAMBOTTY]
+    (Unnamed) [ROLLBODY]
+        (Unnamed) [roof]
+        (Unnamed) [bumper]
+        (Unnamed) [bumper01]
+        (Unnamed) [glassbit01]
+        (Unnamed) [ROLGRILL]
+        (Unnamed) [ROLLITES]
+        (Unnamed) [ROLLSIDE]
+        (Unnamed) [ROLSIDEL]
+        (Unnamed) [ROLLITBK]
+        (Unnamed) [SMISSILL]
+        (Unnamed) [SMISSILR]
+        (Unnamed) [LAUNCHER2]
+        (Unnamed) [LAUNCHRT]
+    (Unnamed) [viperbod]
+        (Unnamed) [VIPMISS]
+        (Unnamed) [VIPMIS2]
+        (Unnamed) [viplites]
+        (Unnamed) [vipglass]
+    (Unnamed) [PORKBODY]
+        (Unnamed) [gunbarell]
+        (Unnamed) [gunbarlr]
+        (Unnamed) [gunfront]
+        (Unnamed) [glassbits]
+        (Unnamed) [doorRGT]
+        (Unnamed) [doorLFT]
+        (Unnamed) [bonnet]
+        (Unnamed) [lights]
+        (Unnamed) [porkrear.DAT]
+        (Unnamed) [SMPORK.DAT]
+        (Unnamed) [SMPORK.DAT]
+        (Unnamed) [BGPORK.DAT]
+        (Unnamed) [BGPORK.DAT]
+    (Unnamed) [PORKBODY]
+        (Unnamed) [gunbarell]
+        (Unnamed) [gunbarlr]
+        (Unnamed) [gunfront]
+        (Unnamed) [glassbits]
+        (Unnamed) [doorRGT]
+        (Unnamed) [doorLFT]
+        (Unnamed) [bonnet]
+        (Unnamed) [lights]
+        (Unnamed) [porkrear.DAT]
+        (Unnamed) [SMPORK.DAT]
+        (Unnamed) [SMPORK.DAT]
+        (Unnamed) [BGPORK.DAT]
+        (Unnamed) [BGPORK.DAT]
+    (Unnamed) [LAMBODY]
+        (Unnamed) [wing]
+        (Unnamed) [engine]
+        (Unnamed) [engine01]
+        (Unnamed) [LAMGLASS]
+        (Unnamed) [LAMBLITE]
+        (Unnamed) [RTMISSLB]
+        (Unnamed) [LFMISSLB]
+        (Unnamed) [LAMBOTTY]
+    (Unnamed) [viperbod]
+        (Unnamed) [VIPMISS]
+        (Unnamed) [VIPMIS2]
+        (Unnamed) [viplites]
+        (Unnamed) [vipglass]
+    (Unnamed) [viperbod]
+        (Unnamed) [VIPMISS]
+        (Unnamed) [VIPMIS2]
+        (Unnamed) [viplites]
+        (Unnamed) [vipglass]
+    (Unnamed) [ROLLBODY]
+        (Unnamed) [roof]
+        (Unnamed) [bumper]
+        (Unnamed) [bumper01]
+        (Unnamed) [glassbit01]
+        (Unnamed) [ROLGRILL]
+        (Unnamed) [ROLLITES]
+        (Unnamed) [ROLLSIDE]
+        (Unnamed) [ROLSIDEL]
+        (Unnamed) [ROLLITBK]
+        (Unnamed) [SMISSILL]
+        (Unnamed) [SMISSILR]
+        (Unnamed) [LAUNCHER2]
+        (Unnamed) [LAUNCHRT]
+    (Unnamed) [MINIBODY]
+        (Unnamed) [BGMINMIS.DAT]
+        (Unnamed) [BGMINMIS.DAT]
+        (Unnamed) [MINlights]
+        (Unnamed) [minglass]
+        (Unnamed) [rearlite]
+        (Unnamed) [radiator]
+        (Unnamed) [SPOTL]
+        (Unnamed) [SPOTR]
+        (Unnamed) [MINISPOT]
+        (Unnamed) [MINBONET]
+        (Unnamed) [MINDOORS]
+    (Unnamed) [LAMBODY]
+        (Unnamed) [wing]
+        (Unnamed) [engine]
+        (Unnamed) [engine01]
+        (Unnamed) [LAMGLASS]
+        (Unnamed) [LAMBLITE]
+        (Unnamed) [RTMISSLB]
+        (Unnamed) [LFMISSLB]
+        (Unnamed) [LAMBOTTY]
+    (Unnamed) [LAMBODY]
+        (Unnamed) [wing]
+        (Unnamed) [engine]
+        (Unnamed) [engine01]
+        (Unnamed) [LAMGLASS]
+        (Unnamed) [LAMBLITE]
+        (Unnamed) [RTMISSLB]
+        (Unnamed) [LFMISSLB]
+        (Unnamed) [LAMBOTTY]
+    (Unnamed) [PORKBODY]
+        (Unnamed) [gunbarell]
+        (Unnamed) [gunbarlr]
+        (Unnamed) [gunfront]
+        (Unnamed) [glassbits]
+        (Unnamed) [doorRGT]
+        (Unnamed) [doorLFT]
+        (Unnamed) [bonnet]
+        (Unnamed) [lights]
+        (Unnamed) [porkrear.DAT]
+        (Unnamed) [SMPORK.DAT]
+        (Unnamed) [SMPORK.DAT]
+        (Unnamed) [BGPORK.DAT]
+        (Unnamed) [BGPORK.DAT]
+    (Unnamed) [PORKBODY]
+        (Unnamed) [gunbarell]
+        (Unnamed) [gunbarlr]
+        (Unnamed) [gunfront]
+        (Unnamed) [glassbits]
+        (Unnamed) [doorRGT]
+        (Unnamed) [doorLFT]
+        (Unnamed) [bonnet]
+        (Unnamed) [lights]
+        (Unnamed) [porkrear.DAT]
+        (Unnamed) [SMPORK.DAT]
+        (Unnamed) [SMPORK.DAT]
+        (Unnamed) [BGPORK.DAT]
+        (Unnamed) [BGPORK.DAT]
+    (Unnamed) [LAMBODY]
+        (Unnamed) [wing]
+        (Unnamed) [engine]
+        (Unnamed) [engine01]
+        (Unnamed) [LAMGLASS]
+        (Unnamed) [LAMBLITE]
+        (Unnamed) [RTMISSLB]
+        (Unnamed) [LFMISSLB]
+        (Unnamed) [LAMBOTTY]
+    (Unnamed) [MINIBODY]
+        (Unnamed) [BGMINMIS.DAT]
+        (Unnamed) [BGMINMIS.DAT]
+        (Unnamed) [MINlights]
+        (Unnamed) [minglass]
+        (Unnamed) [rearlite]
+        (Unnamed) [radiator]
+        (Unnamed) [SPOTL]
+        (Unnamed) [SPOTR]
+        (Unnamed) [MINISPOT]
+        (Unnamed) [MINBONET]
+        (Unnamed) [MINDOORS]
+    (Unnamed) [LAMBODY]
+        (Unnamed) [wing]
+        (Unnamed) [engine]
+        (Unnamed) [engine01]
+        (Unnamed) [LAMGLASS]
+        (Unnamed) [LAMBLITE]
+        (Unnamed) [RTMISSLB]
+        (Unnamed) [LFMISSLB]
+        (Unnamed) [LAMBOTTY]
+    (Unnamed) [LAMBODY]
+        (Unnamed) [wing]
+        (Unnamed) [engine]
+        (Unnamed) [engine01]
+        (Unnamed) [LAMGLASS]
+        (Unnamed) [LAMBLITE]
+        (Unnamed) [RTMISSLB]
+        (Unnamed) [LFMISSLB]
+        (Unnamed) [LAMBOTTY]
+    (Unnamed) [viperbod]
+        (Unnamed) [VIPMISS]
+        (Unnamed) [VIPMIS2]
+        (Unnamed) [viplites]
+        (Unnamed) [vipglass]
+    (Unnamed) [viperbod]
+        (Unnamed) [VIPMISS]
+        (Unnamed) [VIPMIS2]
+        (Unnamed) [viplites]
+        (Unnamed) [vipglass]
+    (Unnamed) [MINIBODY]
+        (Unnamed) [BGMINMIS.DAT]
+        (Unnamed) [BGMINMIS.DAT]
+        (Unnamed) [MINlights]
+        (Unnamed) [minglass]
+        (Unnamed) [rearlite]
+        (Unnamed) [radiator]
+        (Unnamed) [SPOTL]
+        (Unnamed) [SPOTR]
+        (Unnamed) [MINISPOT]
+        (Unnamed) [MINBONET]
+        (Unnamed) [MINDOORS]
+    (Unnamed) [viperbod]
+        (Unnamed) [VIPMISS]
+        (Unnamed) [VIPMIS2]
+        (Unnamed) [viplites]
+        (Unnamed) [vipglass]
+    (Unnamed) [MINIBODY]
+        (Unnamed) [BGMINMIS.DAT]
+        (Unnamed) [BGMINMIS.DAT]
+        (Unnamed) [MINlights]
+        (Unnamed) [minglass]
+        (Unnamed) [rearlite]
+        (Unnamed) [radiator]
+        (Unnamed) [SPOTL]
+        (Unnamed) [SPOTR]
+        (Unnamed) [MINISPOT]
+        (Unnamed) [MINBONET]
+        (Unnamed) [MINDOORS]
+    (Unnamed) [MINIBODY]
+        (Unnamed) [BGMINMIS.DAT]
+        (Unnamed) [BGMINMIS.DAT]
+        (Unnamed) [MINlights]
+        (Unnamed) [minglass]
+        (Unnamed) [rearlite]
+        (Unnamed) [radiator]
+        (Unnamed) [SPOTL]
+        (Unnamed) [SPOTR]
+        (Unnamed) [MINISPOT]
+        (Unnamed) [MINBONET]
+        (Unnamed) [MINDOORS]
+    (Unnamed)
+        (Unnamed)
+            (Unnamed)
+                (Unnamed) [GAMOVER]
+                    (Unnamed) [midgam]
+    (Unnamed)
+        (Unnamed)
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [endglobe.DAT]
+                (Unnamed) [theend]
+                    (Unnamed) [endmid]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+        (Unnamed)
+            (Unnamed)
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [gunbody2]
+                    (Unnamed) [barrel2]
+                    (Unnamed) [gunmuzz2]
+                    (Unnamed) [gunsite2]
+                    (Unnamed) [ammbox2]
+                (Unnamed) [gunbody2]
+                    (Unnamed) [barrel2]
+                    (Unnamed) [gunmuzz2]
+                    (Unnamed) [gunsite2]
+                    (Unnamed) [ammbox2]
+                (Unnamed) [POWUP.DAT]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [MISSPOD.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                (Unnamed) [MISSPOD.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                (Unnamed) [MISSPOD.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                (Unnamed) [MISSPOD.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                (Unnamed) [MISSPOD.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                (Unnamed) [MISSPOD.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                (Unnamed) [MISSPOD.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                (Unnamed) [MISSPOD.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                (Unnamed) [CGbody]
+                    (Unnamed) [ambox1]
+                    (Unnamed) [CGsight]
+                    (Unnamed) [CGmuzle2]
+                    (Unnamed) [CGmuzzle]
+                    (Unnamed) [barrel12]
+                    (Unnamed) [CGamobox]
+                    (Unnamed) [barrel1]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                 "$2door2"
+ [(Unnamed)]
+        (Unnamed)
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [POWUP.DAT]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+    (Unnamed)
+        (Unnamed)
+            (Unnamed)
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [gunbody2]
+                    (Unnamed) [barrel2]
+                    (Unnamed) [gunmuzz2]
+                    (Unnamed) [gunsite2]
+                    (Unnamed) [ammbox2]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [token]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [MISSPOD.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [gunbody2]
+                    (Unnamed) [barrel2]
+                    (Unnamed) [gunmuzz2]
+                    (Unnamed) [gunsite2]
+                    (Unnamed) [ammbox2]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+        (Unnamed)
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [gunbody2]
+                    (Unnamed) [barrel2]
+                    (Unnamed) [gunmuzz2]
+                    (Unnamed) [gunsite2]
+                    (Unnamed) [ammbox2]
+                (Unnamed) [CGbody]
+                    (Unnamed) [ambox1]
+                    (Unnamed) [CGsight]
+                    (Unnamed) [CGmuzle2]
+                    (Unnamed) [CGmuzzle]
+                    (Unnamed) [barrel12]
+                    (Unnamed) [CGamobox]
+                    (Unnamed) [barrel1]
+                (Unnamed) [gunbody2]
+                    (Unnamed) [barrel2]
+                    (Unnamed) [gunmuzz2]
+                    (Unnamed) [gunsite2]
+                    (Unnamed) [ammbox2]
+                (Unnamed) [gunbody2]
+                    (Unnamed) [barrel2]
+                    (Unnamed) [gunmuzz2]
+                    (Unnamed) [gunsite2]
+                    (Unnamed) [ammbox2]
+                (Unnamed) [MISSPOD.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [MISSPOD.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [gunbody2]
+                    (Unnamed) [barrel2]
+                    (Unnamed) [gunmuzz2]
+                    (Unnamed) [gunsite2]
+                    (Unnamed) [ammbox2]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [token]
+                (Unnamed) [CGbody]
+                    (Unnamed) [ambox1]
+                    (Unnamed) [CGsight]
+                    (Unnamed) [CGmuzle2]
+                    (Unnamed) [CGmuzzle]
+                    (Unnamed) [barrel12]
+                    (Unnamed) [CGamobox]
+                    (Unnamed) [barrel1]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [gunbody2]
+                    (Unnamed) [barrel2]
+                    (Unnamed) [gunmuzz2]
+                    (Unnamed) [gunsite2]
+                    (Unnamed) [ammbox2]
+                (Unnamed) [POWUP.DAT]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+        (Unnamed)
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+        (Unnamed)
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [POWUP.DAT]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+    (Unnamed)
+        (Unnamed)
+            (Unnamed)
+            (Unnamed)
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+        (Unnamed)
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [token]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [gunbody2]
+                    (Unnamed) [barrel2]
+                    (Unnamed) [gunmuzz2]
+                    (Unnamed) [gunsite2]
+                    (Unnamed) [ammbox2]
+                (Unnamed) [gunbody2]
+                    (Unnamed) [barrel2]
+                    (Unnamed) [gunmuzz2]
+                    (Unnamed) [gunsite2]
+                    (Unnamed) [ammbox2]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+        (Unnamed)
+            (Unnamed)
+            (Unnamed)
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [gasbody]
+                    (Unnamed) [gasbody01]
+                    (Unnamed) [gasnozzl01]
+                    (Unnamed) [gasnozzl03]
+                    (Unnamed) [nozzlend]
+                    (Unnamed) [pumpface]
+                    (Unnamed) [fuelpipe]
+                    (Unnamed) [pumpbodf]
+                (Unnamed) [gasbody]
+                    (Unnamed) [gasbody01]
+                    (Unnamed) [gasnozzl01]
+                    (Unnamed) [gasnozzl03]
+                    (Unnamed) [nozzlend]
+                    (Unnamed) [pumpface]
+                    (Unnamed) [fuelpipe]
+                    (Unnamed) [pumpbodf]
+                (Unnamed) [gasbody]
+                    (Unnamed) [gasbody01]
+                    (Unnamed) [gasnozzl01]
+                    (Unnamed) [gasnozzl03]
+                    (Unnamed) [nozzlend]
+                    (Unnamed) [pumpface]
+                    (Unnamed) [fuelpipe]
+                    (Unnamed) [pumpbodf]
+                (Unnamed) [gasbody]
+                    (Unnamed) [gasbody01]
+                    (Unnamed) [gasnozzl01]
+                    (Unnamed) [gasnozzl03]
+                    (Unnamed) [nozzlend]
+                    (Unnamed) [pumpface]
+                    (Unnamed) [fuelpipe]
+                    (Unnamed) [pumpbodf]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [MISSPOD.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                (Unnamed) [gunbody2]
+                    (Unnamed) [barrel2]
+                    (Unnamed) [gunmuzz2]
+                    (Unnamed) [gunsite2]
+                    (Unnamed) [ammbox2]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                 "$1door1"
+ [(Unnamed)]
+        (Unnamed)
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [MISSPOD.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                (Unnamed) [gunbody2]
+                    (Unnamed) [barrel2]
+                    (Unnamed) [gunmuzz2]
+                    (Unnamed) [gunsite2]
+                    (Unnamed) [ammbox2]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [POWUP.DAT]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [MISSPOD.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                (Unnamed) [MISSPOD.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                (Unnamed) [MISSPOD.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                (Unnamed) [POWUP.DAT]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [POWUP.DAT]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [gunbody2]
+                    (Unnamed) [barrel2]
+                    (Unnamed) [gunmuzz2]
+                    (Unnamed) [gunsite2]
+                    (Unnamed) [ammbox2]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [POWUP.DAT]
+        (Unnamed)
+            (Unnamed)
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [MISSPOD.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                (Unnamed) [MISSPOD.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [gasbody]
+                    (Unnamed) [gasbody01]
+                    (Unnamed) [gasnozzl01]
+                    (Unnamed) [gasnozzl03]
+                    (Unnamed) [nozzlend]
+                    (Unnamed) [pumpface]
+                    (Unnamed) [fuelpipe]
+                    (Unnamed) [pumpbodf]
+                (Unnamed) [gasbody]
+                    (Unnamed) [gasbody01]
+                    (Unnamed) [gasnozzl01]
+                    (Unnamed) [gasnozzl03]
+                    (Unnamed) [nozzlend]
+                    (Unnamed) [pumpface]
+                    (Unnamed) [fuelpipe]
+                    (Unnamed) [pumpbodf]
+                (Unnamed) [gasbody]
+                    (Unnamed) [gasbody01]
+                    (Unnamed) [gasnozzl01]
+                    (Unnamed) [gasnozzl03]
+                    (Unnamed) [nozzlend]
+                    (Unnamed) [pumpface]
+                    (Unnamed) [fuelpipe]
+                    (Unnamed) [pumpbodf]
+                (Unnamed) [gasbody]
+                    (Unnamed) [gasbody01]
+                    (Unnamed) [gasnozzl01]
+                    (Unnamed) [gasnozzl03]
+                    (Unnamed) [nozzlend]
+                    (Unnamed) [pumpface]
+                    (Unnamed) [fuelpipe]
+                    (Unnamed) [pumpbodf]
+                (Unnamed) [gasbody]
+                    (Unnamed) [gasbody01]
+                    (Unnamed) [gasnozzl01]
+                    (Unnamed) [gasnozzl03]
+                    (Unnamed) [nozzlend]
+                    (Unnamed) [pumpface]
+                    (Unnamed) [fuelpipe]
+                    (Unnamed) [pumpbodf]
+                (Unnamed) [gasbody]
+                    (Unnamed) [gasbody01]
+                    (Unnamed) [gasnozzl01]
+                    (Unnamed) [gasnozzl03]
+                    (Unnamed) [nozzlend]
+                    (Unnamed) [pumpface]
+                    (Unnamed) [fuelpipe]
+                    (Unnamed) [pumpbodf]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [MISSPOD.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                (Unnamed) [gunbody2]
+                    (Unnamed) [barrel2]
+                    (Unnamed) [gunmuzz2]
+                    (Unnamed) [gunsite2]
+                    (Unnamed) [ammbox2]
+                (Unnamed) [gunbody2]
+                    (Unnamed) [barrel2]
+                    (Unnamed) [gunmuzz2]
+                    (Unnamed) [gunsite2]
+                    (Unnamed) [ammbox2]
+                (Unnamed) [gunbody2]
+                    (Unnamed) [barrel2]
+                    (Unnamed) [gunmuzz2]
+                    (Unnamed) [gunsite2]
+                    (Unnamed) [ammbox2]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+        (Unnamed)
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed)
+                (Unnamed) [token]
+                (Unnamed) [POWUP.DAT]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+    (Unnamed)
+        (Unnamed)
+            (Unnamed)
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [token]
+                (Unnamed) [gunbody2]
+                    (Unnamed) [barrel2]
+                    (Unnamed) [gunmuzz2]
+                    (Unnamed) [gunsite2]
+                    (Unnamed) [ammbox2]
+                (Unnamed) [MISSPOD.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                    (Unnamed) [VIPMISS.DAT]
+                (Unnamed) [POWUP.DAT]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+        (Unnamed)
+            (Unnamed)
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [token]
+                (Unnamed) [gunbody2]
+                    (Unnamed) [barrel2]
+                    (Unnamed) [gunmuzz2]
+                    (Unnamed) [gunsite2]
+                    (Unnamed) [ammbox2]
+                (Unnamed) [gunbody2]
+                    (Unnamed) [barrel2]
+                    (Unnamed) [gunmuzz2]
+                    (Unnamed) [gunsite2]
+                    (Unnamed) [ammbox2]
+                (Unnamed) [POWUP.DAT]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+        (Unnamed)
+            (Unnamed)
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [(Unnamed)]
+                (Unnamed) [POWUP.DAT]
+                (Unnamed) [POWUP.DAT]
+    (Unnamed)
+        (Unnamed)
+        camera
