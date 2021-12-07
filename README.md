@@ -2,6 +2,6 @@
 
 https://wiki.cwaboard.co.uk/wiki/BRender
 
-![intro](brender_intro.png)
+![intro](broom_intro.png)
 ![runtime](broom.png)
 
